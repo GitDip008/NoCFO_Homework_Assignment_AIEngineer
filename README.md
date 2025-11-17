@@ -1,4 +1,4 @@
-# NOCFO Homework Assignment - AI Engineer
+# NoCFO Homework Assignment - AI Engineer
 
 This repository contains my submission for the AI Engineer homework assignment. The project implements a deterministic, rule-based matching engine to link bank transactions with their corresponding attachments (invoices and receipts).
 
